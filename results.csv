@@ -1,6 +1,0 @@
-model,macro_f1,accuracy,size_mb,latency_mean_ms,latency_p95_ms
-Rule: edit-distance lexicon,0.661,0.7779,0.0,1.56,3.5
-Baseline: TF-IDF + LogReg,0.7219,0.7767,0.92,0.89,1.09
-Neural: Word2Vec + FFN,0.6963,0.7547,3.74,0.31,0.51
-Transformer: DistilBERT FP32,0.7857,0.8349,267.86,64.58,93.97
-Quantized: DistilBERT INT8,0.7549,0.8291,138.71,27.43,46.35

@@ -1,0 +1,11 @@
+torch
+transformers
+datasets
+gensim
+scikit-learn
+joblib
+pandas
+numpy
+tabulate
+gradio
+huggingface_hub
